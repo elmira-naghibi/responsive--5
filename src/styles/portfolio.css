@@ -95,6 +95,10 @@ p {
   padding: 120px 60px;
 }
 
+.person-img {
+  border-radius: 15px;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
